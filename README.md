@@ -2,7 +2,8 @@
 
 ## 💻 Sobre a Aplicação
 - Esta aplicação consiste em um chat em tempo real desenvolvido para um sistema web. Utiliza WebSocket para possibilitar a troca de dados de forma contínua e instantânea,
-por meio de uma conexão persistente e bidirecional entre o cliente (como um navegador) e o servidor.
+por meio de uma conexão persistente e bidirecional entre o cliente (como um navegador) e o servidor, além disso foi realizado o deploy da aplicação na AWS utilizando o serviço
+Elastic Beanstalk.
 
 ## ✨ Tecnologias Utilizadas
 - Java 21
@@ -14,11 +15,13 @@ por meio de uma conexão persistente e bidirecional entre o cliente (como um nav
 - CSS3
 - JavaScript
 - JQuery
+- AWS
 
 ## 🗒️ Roteiro
 - [ ] Criação do sistema com Spring Boot e o Maven
 - [ ] Criação da configuração do Sistema
-- [ ] Criação do front-end com HTML5, CSS3, JavaScript(Jquery
+- [ ] Criação do front-end com HTML5, CSS3, JavaScript(Jquery)
+- [ ] Realização de deploy na AWS
 
 ## 🚀 Como Executar
 - Clone o repositório
